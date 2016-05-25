@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: 7/7/2012 6:39:01 AM
+#
+$CMP PIC18F/LF1XK50-DIL
+D 20-Pin USB Flash Microcontrollers with nanoWatt XLP Technology
+K USB PIC18
+$ENDCMP
+#
+#End Doc Library

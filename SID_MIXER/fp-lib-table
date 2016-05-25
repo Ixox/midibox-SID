@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name pfm2_lib)(type KiCad)(uri /home/xhosxe/MIOS/pfm2_lib.pretty)(options "")(descr ""))
+  (lib (name Gajda_power)(type Legacy)(uri /home/xhosxe/MIOS/SID_MB/lib/power/Gajda_power.mod)(options "")(descr ""))
+)

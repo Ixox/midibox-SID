@@ -1,0 +1,178 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Wed 24 Feb 2016 23:22:25 CET
+
+BeginCmp
+TimeStamp = /56CDDC9E;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = FMCondeDecouplage2;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CDDCAB;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = FMCondeDecouplage2;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CDDCB1;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = FMCondeDecouplage2;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CE2731;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = FMCondeDecouplage2;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CB8431;
+Reference = EE1;
+ValeurCmp = 25LC512;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CB8440;
+Reference = EE2;
+ValeurCmp = 25LC512;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CE21A6;
+Reference = EE3;
+ValeurCmp = 25LC512;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CE1281;
+Reference = Enc1;
+ValeurCmp = ENCODER_SW;
+IdModule  = FMEncoderWithSwitch2;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CB831C;
+Reference = IC1;
+ValeurCmp = 74HC165N;
+IdModule  = DIP-16__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CDFF6D;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CE003D;
+Reference = P2;
+ValeurCmp = CONN_5;
+IdModule  = SIL-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CE1EC0;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = FMHole3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CE1ECD;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = FMHole3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CE1ED3;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = FMHole3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CE1ED9;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = FMHole3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CE20A5;
+Reference = P7;
+ValeurCmp = CONN_1;
+IdModule  = FMHole3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CE2C73;
+Reference = P8;
+ValeurCmp = CONN_5;
+IdModule  = SIL-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CB91A8;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = FMResistance;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CB84A3;
+Reference = RR1;
+ValeurCmp = RR8;
+IdModule  = FMRR9;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CB845E;
+Reference = S1;
+ValeurCmp = SWITCH;
+IdModule  = FMButton2;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CB846D;
+Reference = S2;
+ValeurCmp = SWITCH;
+IdModule  = FMButton2;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CB847A;
+Reference = S3;
+ValeurCmp = SWITCH;
+IdModule  = FMButton2;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CB8480;
+Reference = S4;
+ValeurCmp = SWITCH;
+IdModule  = FMButton2;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CB8486;
+Reference = S5;
+ValeurCmp = SWITCH;
+IdModule  = FMButton2;
+EndCmp
+
+BeginCmp
+TimeStamp = /56CB848C;
+Reference = S6;
+ValeurCmp = SWITCH;
+IdModule  = FMButton2;
+EndCmp
+
+EndListe
